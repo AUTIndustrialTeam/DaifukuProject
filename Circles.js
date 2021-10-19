@@ -19,7 +19,8 @@ class Circles {
         this.x += this.xSpeed;
         this.y += this.ySpeed;
 
-        //Hardcode to get circles to move through funnel
+        // Hardcode to get circles to move through funnel
+        // To test this function please comment lines 19,20 and uncomment the below
         // this.x += this.xSpeed;
         // if (this.x === 240) {
         //     this.xSpeed = 0;
